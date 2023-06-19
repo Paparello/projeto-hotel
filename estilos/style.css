@@ -201,7 +201,7 @@ header li:last-child {
 
 .caracteristicas .grid {width:100%; display: flex;}
 .caracteristicas .grid li {padding: 0px 30px; text-align: center;}
-.caracteristicas .grid li i {color: #c3c63b; font-size: 3.5em; margin-bottom: 30px;}
+.caracteristicas .grid li span {color: #c3c63b; font-size: 3.5em; margin-bottom: 30px;}
 .caracteristicas .grid li h4 {font-size: 1.5em; color: #c3c63b; margin-bottom: 30px;}
 .caracteristicas .grid li p {color:#fff;}
 @media screen  and (max-width: 850px) {
